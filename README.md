@@ -1,10 +1,21 @@
-# MyShop
+#Shop App
+This is my first flutter app.
+A Simple Flutter based Shop App that can run on both android and ios. It uses firebase as backend.
+It has all basic navigation feature with decent effects and animation.
 
-A new Flutter project.
+Feel free to work on it and create PRs.
+
+Run "flutter pub get" without quotes to get all th dependecies to work.
+
+Drop a star if you like it.
+
+
+
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+
 
 A few resources to get you started if this is your first Flutter project:
 
